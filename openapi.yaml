@@ -3069,33 +3069,6 @@ components:
           agencia: "9708"
           conta: "012682"
           tipoConta: CORRENTE
-    cobRResponse1:
-      summary: "Exemplo de cobrança recorrente 1"
-      value:
-        idRec: RR1234567820240115abcdefghijk
-        txid: 3136957d93134f2184b369e8f1c0729d
-        infoAdicional: "Serviços de Streamming de Música e Filmes."
-        calendario:
-          criacao: "2024-04-01"
-          dataDeVencimento: "2024-04-15"
-        status: CRIADA
-        valor:
-          original: "106.07"
-        politicaRetentativa: PERMITE_3R_7D
-        ajusteDiaUtil: true
-        devedor:
-          cep: "89256-140"
-          cidade: "Uberlândia"
-          email: "sebastiao.tavares@mail.com"
-          logradouro: "Alameda Franco 1056"
-          uf: "MG"
-        recebedor:
-          agencia: "9708"
-          conta: "012682"
-          tipoConta: CORRENTE
-        atualizacao:
-          - data: "2024-04-01T14:47:29.470Z"
-            status: CRIADA
     cobRResponse2:
       summary: "Exemplo de cobrança recorrente 1"
       value:
